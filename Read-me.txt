@@ -1,0 +1,1 @@
+Add all jar files present in "...\spcorejars\" to libraries of the project.
